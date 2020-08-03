@@ -1,6 +1,6 @@
 Name: SMTP-mail
 
-Description: GUI for sending emails through a proxy gmail address (insecure)
+Description: GUI for sending emails through a proxy (insecure) gmail address
 
 Language: Python 3
 
